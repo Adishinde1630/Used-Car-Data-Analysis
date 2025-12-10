@@ -88,3 +88,14 @@ If you'd like, I can also:
 - or create a small helper script to export cleaned CSVs from the scraping notebook.
 
 Tell me which of these you'd like next.
+
+## Preview
+
+Below is a screenshot of the Power BI dashboard produced for this project. Click the image to view it on GitHub.
+
+<div align="center">
+	<a href="images/Used_Car_Dashboard.png">
+		<img src="images/Used_Car_Dashboard.png" alt="Dashboard screenshot" width="900" />
+	</a>
+	<p><em>Figure: Sample Power BI dashboard (click to view full-size).</em></p>
+</div>
